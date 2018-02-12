@@ -4,7 +4,7 @@ A team university project, that aims to create a friendly mobile app for accessi
 
 ## Download
 * [**Google Play**](https://play.google.com/store/apps/details?id=mobile.icarus)
-* [**.apk from GitHub](https://github.com/BlueBeetle97/IcarusMobile/blob/master/app/release/app-release.apk)
+* [**.apk from GitHub**](https://github.com/BlueBeetle97/IcarusMobile/blob/master/app/release/app-release.apk)
 
 ## Authors
 
